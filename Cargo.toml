@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "spooky-season",
+  "halloween",
+  "carnival",
+]

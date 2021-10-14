@@ -1,0 +1,12 @@
+[package]
+name = "spooky-season"
+version = "1.0.0"
+edition = "2018"
+license = "MIT"
+description = "👻 SPOOKY! 👻🎃👻"
+
+[lib]
+proc_macro = true
+
+[dependencies]
+time = "0.3.3"
